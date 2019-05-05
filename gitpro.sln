@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "gitpro", "gitpro\gitpro.vbproj", "{3474AE98-BA40-4E29-824F-B9F21655C96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3474AE98-BA40-4E29-824F-B9F21655C96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3474AE98-BA40-4E29-824F-B9F21655C96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3474AE98-BA40-4E29-824F-B9F21655C96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3474AE98-BA40-4E29-824F-B9F21655C96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89DF8B6-B834-491E-A222-2AE62B89BC7D}
+	EndGlobalSection
+EndGlobal
